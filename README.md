@@ -2,8 +2,7 @@
   <img src="faspep-logo-light.png" alt="FASPEP logo" width="220">
 </p>
 
-
-FASPEP
+**FASPEP**
 
 **Digital Examinations and Assessment**
 
