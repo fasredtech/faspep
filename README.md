@@ -1,7 +1,7 @@
 <p align="center">
   <img src="faspep-logo-light.png" alt="FASPEP logo" width="220">
 </p>
-# FASPEP
+## FASPEP
 
 **Digital Examinations and Assessment**
 
@@ -114,7 +114,12 @@ https://fasredtech.com/contact?inquiry=sales&intent=demo
 https://fasredtech.com
 
 ---
+## Documentation
 
+- [Examination Lifecycle](docs/EXAMINATION_LIFECYCLE.md) — Explore the intended examination workflow, from planning to records and appeals.
+- [Frequently Asked Questions](docs/FAQ.md) — Answers to common questions about FASPEP, its intended users and product availability.
+- [Product Roadmap](docs/PRODUCT_ROADMAP.md) — Review FASPEP's product priorities and development direction.
+  
 ## Ownership and intellectual property
 
 FASPEP is a proprietary product of FASRED Technologies Ltd.
